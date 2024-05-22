@@ -1,0 +1,1 @@
+                # nationality.append(item.text)
